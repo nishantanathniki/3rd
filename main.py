@@ -50,4 +50,4 @@ log1= {"email":"gyankumar7282@gmail.com","imgUrl":"https://lh3.googleusercontent
 log2 =  {"email":"birihirok@gmail.com","imgUrl":"https://lh3.googleusercontent.com/a/ACg8ocIRQyw4jtCOccvBKnWJDxmcQpuSUzIbuyMxVD0-R4hq=s96-c","deviceId":"55m6a664f4185d"}
 
 while(True):
-	run(log2)
+	run(log1)
